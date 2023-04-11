@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  aouto-text running with JawaScript
+  auto-text running with JawaScript
 </p>
 
 <p align='center'>
